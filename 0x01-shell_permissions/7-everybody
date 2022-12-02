@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugu+x
+chmod ugu+x hello
