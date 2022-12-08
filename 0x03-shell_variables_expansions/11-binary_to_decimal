@@ -1,0 +1,2 @@
+#!/bin/bash
+binary=$(([##2]decimal))
